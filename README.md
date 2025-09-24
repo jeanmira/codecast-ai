@@ -39,3 +39,6 @@ Este é um projeto de código aberto! Sinta-se à vontade para contribuir com su
 ## Onde Ouvir
 
 (Links para as plataformas de podcast em breve)
+
+---
+*Nota: Este projeto foi inteiramente estruturado e desenvolvido utilizando ferramentas de Inteligência Artificial Generativa como parte do curso da [DIO](https://dio.me).*
