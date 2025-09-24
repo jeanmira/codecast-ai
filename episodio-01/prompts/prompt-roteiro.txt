@@ -1,0 +1,14 @@
+Faça um podcast de 30 minutos:
+
+Introdução
+Bem-vinde ao codecast-ai, o podcast onde tecnologia, criatividade e inteligência artificial se encontram! Neste espaço, exploramos o fascinante universo da IA generativa, trazendo novidades, reflexões e aplicações que mudam a forma como programamos, criamos e interagimos no mundo digital.
+Curiosidades
+Sabia que as primeiras tentativas de gerar texto automaticamente usavam regras fixas, bem diferentes dos modelos generativos modernos? Hoje, algoritmos inspirados em redes neurais conseguem criar conversas, poesias e até códigos inovadores. Além disso, curiosamente, o ChatGPT gerou mais de 2 milhões de textos só no primeiro ano de existência!
+Conteúdo Principal
+Neste episódio, vamos desvendar como funcionam os modelos de linguagem generativa, tipo GPT e seus parentes. Você vai entender conceitos-chave, como aprendizado por contexto, treinamento com bilhões de parâmetros e os desafios de bias, segurança e criatividade. Abordaremos casos reais, desde chatbots que desenvolvem personalidade até IA em produção musical e criação de imagens.
+Dicas
+Teste as diferenças de resultados entre prompts simples e otimizados.
+Explore plataformas abertas como HuggingFace para experimentar modelos generativos.
+Busque comunidades que compartilham boas práticas de desenvolvimento e uso ético da IA.
+Fechamento
+Se curtiu o episódio, siga o codecast-ai em sua plataforma favorita! Compartilhe com quem gosta de inovação, IA e programação. Deixe sugestões de temas para os próximos episódios e participe da nossa comunidade. Até a próxima, com mais histórias e discussões sobre o impacto da IA generativa no nosso dia a dia!
